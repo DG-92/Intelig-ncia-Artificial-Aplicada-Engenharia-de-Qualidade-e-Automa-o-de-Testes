@@ -1,0 +1,1 @@
+# Intelig-ncia-Artificial-Aplicada-Engenharia-de-Qualidade-e-Automa-o-de-Testes

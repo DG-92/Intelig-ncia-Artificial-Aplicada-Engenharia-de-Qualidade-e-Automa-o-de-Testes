@@ -1,4 +1,4 @@
-# Intelig-ncia-Artificial-Aplicada-Engenharia-de-Qualidade-e-Automa-o-de-Testes
+# Inteligência-Artificial-Aplicada-Engenharia-de-Qualidade-e-Automacão-de-Testes
 
 
 # Caderno Temático - IA Aplicada à Engenharia de Qualidade
